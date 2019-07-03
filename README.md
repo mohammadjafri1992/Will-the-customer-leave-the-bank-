@@ -10,5 +10,6 @@ We have to figure out what is happening to these custsomers and why are the leav
 
 I made some assumptions before starting this project. I performed some feature engineering to reduce not very useful features from the dataset which would have created noise in our analysis. This feature engineering reduced the dimensionality of the data and made the model run quicker.
 
-I performed 
+## Model Extensions
 
+This same model can be extended to other possible cases, e.g. 1) Will the customer be approved for a loan, 2) Will the customer deposit X amount of money in the next X months, 3) Will the customer pay the bills on time. i.e. MOST of the problems with a binary outcome can use this basic deep learning model.
